@@ -1,0 +1,522 @@
+.top-img {
+    width: 100%;
+}
+
+#header {
+    position: relative;
+}
+
+#header-star {
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
+
+#header-star-1 {
+    position: absolute;
+    top: 30px;
+    right: 200px;
+}
+
+#header-star-3 {
+    position: absolute;
+    top: 20px;
+    right: 500px;
+}
+
+#header-star-4 {
+    position: absolute;
+    top: 10px;
+    right: 700px;
+}
+
+#header-star-5 {
+    position: absolute;
+    top: 150px;
+    left: 13px;
+}
+
+#header-star-6 {
+    position: absolute;
+    top: 75px;
+    left: 50px;
+}
+
+#header-star-7 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#header-star-8 {
+    position: absolute;
+    top: 230px;
+    left: 10px;
+}
+
+#header-star-9 {
+    position: absolute;
+    top: 90px;
+    right: 120px;
+}
+
+#header-star-10 {
+    position: absolute;
+    top: 40px;
+    left: 150px;
+}
+
+#header-star-11 {
+    position: absolute;
+    top: 20px;
+    left: 0px;
+}
+
+.top-img-1 {
+    width: 100%;
+}
+
+
+#header-star-15 {
+    position: absolute;
+    top: 10px;
+    left: 130px;
+}
+
+#header-star-16 {
+    position: absolute;
+    top: 5px;
+    left: 220px;
+}
+
+#header-star-17 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#header-star-18 {
+    position: absolute;
+    top: 8px;
+    left: 70px;
+}
+
+#card-side {
+    width: 346px;
+    height: 593px;
+    border-radius: 20px;
+    background-color: #fff;
+    padding: 30px;
+
+}
+
+
+
+#card-side {
+    position: absolute;
+    top: 105px;
+    left: 270px;
+
+
+
+}
+
+.card-related {
+
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: -150px;
+}
+
+#card-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+
+}
+
+#card-btn-2 {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #f0f0f0;
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+
+}
+
+#card-img {
+    width: 289px;
+    height: 289px;
+    border-radius: 30px;
+
+}
+
+.card-name {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+    height: 24px;
+    width: 204px;
+    margin-top: 10px;
+}
+
+.card-mentor {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+
+
+}
+
+#card-detail {
+    margin-left: 490px;
+}
+
+.star-img {
+    height: 23px;
+    width: 23px;
+    border-radius: 1px;
+    margin-right: 5px;
+
+}
+
+.card-logo-text {
+    height: 90px;
+    width: 286px;
+    border-radius: 12px;
+    background-color: #f0f0f0;
+    margin-top: 30px;
+
+}
+
+.card-logo {
+    height: 42px;
+    width: 66px;
+}
+
+.certified {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 18px;
+
+}
+
+.certified-logo {
+    height: 5px;
+    width: 7px;
+    border-radius: 0px;
+    color: blue
+}
+
+.card-h {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+#footer {
+    margin-top: 350px;
+}
+
+.footer-logo {
+
+    margin-left: 60px;
+}
+
+.footer-right-side {
+    color: black;
+}
+
+
+
+
+
+@media only screen and (max-width:500px) {
+
+
+    .farhan {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #header {
+        width: 100%;
+    }
+
+
+
+    #card-side {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 165px;
+        width: 300px !important;
+        left: 0px;
+        top: 56px;
+        border-radius: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 5px;
+
+
+
+    }
+
+    #card-img {
+        height: 133px;
+        width: 117px;
+        border-radius: 10px;
+
+
+    }
+
+    .card-online {
+        position: relative;
+    }
+
+    .online-logo {
+        position: absolute;
+
+        top: -10px;
+        right: -6px;
+    }
+
+    .card-name {
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        height: 4px;
+        width: 136px;
+        margin-top: 0px;
+
+    }
+
+    .card-mentor {
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 21px;
+        height: 21px;
+        width: 79px;
+    }
+
+    .star-img {
+        height: 16px;
+        width: 16px;
+        border-radius: 0.5px;
+        margin-right: 2px;
+
+    }
+
+
+    .card-logo-text {
+        height: 0px;
+        width: 0px;
+        border-radius: 0px;
+        background-color: #fff;
+        margin-top: 0px;
+
+    }
+
+    .certified {
+        display: inline-flex;
+
+    }
+
+    #card-detail {
+        margin-top: 300px;
+        margin-left: 0px;
+
+
+    }
+
+
+    .card-related {
+        font-size: 24px;
+        font-weight: 500;
+        margin-left: 0px;
+    }
+
+
+    #footer-text {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .footer-logo {
+
+        margin-left: 0px;
+    }
+
+
+}
+
+
+
+
+
+@media only screen and (min-width:768px) {
+    #card-side {
+        position: absolute;
+        top: 44px;
+        left: 62px;
+        width: 235px;
+        height: 454px;
+        border-radius: 20px;
+        background-color: #fff;
+        padding: 30px;
+    }
+
+    #card-img {
+        width: 175px;
+        height: 175px;
+        border-radius: 30px;
+    }
+
+    .card-name {
+        font-family: Poppins;
+        font-size: 19px;
+        font-weight: 500;
+        line-height: 24px;
+        height: 24px;
+        width: 204px;
+        margin-top: 10px;
+    }
+
+    .card-logo-text {
+        height: 90px;
+        width: 171px;
+        border-radius: 12px;
+        background-color: #f0f0f0;
+        margin-top: 30px;
+    }
+
+    .certified {
+        font-family: Poppins;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 18px;
+    }
+
+    .card-h {
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 36px;
+    }
+
+    .card-related {
+        font-size: 24px;
+        font-weight: 500;
+        margin-top: 6px;
+    }
+
+    #card-detail {
+        margin-left: 315px;
+    }
+
+    .card-logo {
+        height: 43px;
+        width: 50px;
+    }
+
+    .footer-logo {
+
+        margin-left: 0px;
+    }
+
+}
+
+
+@media only screen and (min-width:1024px) {
+    #card-side {
+        position: absolute;
+        top: 80px;
+        left: 242px;
+        width: 346px;
+        height: 593px;
+        border-radius: 20px;
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+    }
+
+    #card-img {
+        width: 304px;
+        height: 289px;
+        border-radius: 20px;
+    }
+
+    .card-name {
+        font-family: Poppins;
+        font-size: 31px;
+        font-weight: 500;
+        line-height: 24px;
+        height: 24px;
+        width: 250px;
+        margin-top: 20px;
+    }
+
+    .card-mentor {
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 27px;
+    }
+
+    .star-img {
+        height: 23px;
+        width: 34px;
+        border-radius: 1px;
+        margin-right: 5px;
+        margin-top: 10px;
+    }
+
+    .card-logo-text {
+        height: 90px;
+        width: 303px;
+        border-radius: 12px;
+        background-color: rgb(240, 240, 240);
+        margin-top: 30px;
+    }
+
+    .card-logo {
+        height: 37px;
+        width: 70px;
+    }
+
+    .certified {
+        font-family: Poppins;
+        font-size: 25px;
+        font-weight: 300;
+        line-height: 18px;
+    }
+
+    .card-h {
+        font-family: Poppins;
+        font-size: 34px;
+        font-weight: 400;
+        line-height: 36px;
+    }
+
+    #card-detail {
+        margin-left: 475px;
+        margin-top: -100px;
+    }
+
+    .footer-logo {
+
+        margin-left: 40px;
+    }
+
+}
